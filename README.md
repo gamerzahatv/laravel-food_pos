@@ -56,6 +56,11 @@ Clone the project
   php artisan permission:create-role User
 ```
 ทดลองใช้งานในระบบทดลอง
+
+```bash
+  php artisan serve --host=ไอพีคุณ --port=พอตคุณ 
+```
+
 ## Docker อาจกำลังมาแต่ไม่ใช้เร็วเร็วนี้
 	กำลังพัฒนา
 
