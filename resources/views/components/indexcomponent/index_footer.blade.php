@@ -15,10 +15,10 @@
                     <img src="home_assets/mon.jpg" class="img-fluid" alt="">
 
                     <h4 style="color: rgb(255, 255, 255);">นาย มงคล นามะวงค์</h4>
-                    <span>Marketing</span>
+                    <span>ผู้พัฒนา</span>
                     <div class="social">
                         <a href="https://www.facebook.com/profile.php?id=100009453533541"><i class="fa-brands fa-facebook"></i></a>
-                        <a href=""><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.instagram.com/mon_throwgame.t_t/"><i class="fa-brands fa-instagram"></i></a>
                     </div>
                 </div>
             </div><!-- End Team Member -->
