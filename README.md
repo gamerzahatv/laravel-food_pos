@@ -64,7 +64,6 @@ Clone the project
 ## Docker อาจกำลังมาแต่ไม่ใช้เร็วเร็วนี้
 	กำลังพัฒนา
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Screenshots
 
