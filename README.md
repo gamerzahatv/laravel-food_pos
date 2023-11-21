@@ -2,6 +2,7 @@
 
 ภาพตัวอย่างเว็บไซต์: [Example](https://github.com/gamerzahatv/laravel-food_pos/tree/dev/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A)
 วีดีโอแนะนำ: [YOUTUBE](https://github.com/gamerzahatv/laravel-food_pos/tree/dev/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A)
+สไลด์: [PDF](https://github.com/gamerzahatv/laravel-food_pos/blob/dev/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3.pdf)
 
 ## libary กับ  framework ที่ใช้ 
 
@@ -31,10 +32,12 @@ Clone the project
   git clone https://github.com/gamerzahatv/laravel-food_pos.git
 ```
 
-Go to the project directory
+ติดตั้งโมดูล
 
 ```bash
-  cd my-project
+	composer install 
+	npm install 
+	npm run build
 ```
 
 Install dependencies
