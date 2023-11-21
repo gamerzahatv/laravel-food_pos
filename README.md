@@ -1,4 +1,4 @@
-# ร้านจัดการอาหารตามสั่ง
+#  เว็บจัดการร้านอาหารตามสั่งป้าต๊อย
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
@@ -26,12 +26,12 @@
 - [NODE JS v20.9.0](https://nodejs.org/en/)
 
 
-## Run Locally
+## การติดตั้งโปรเจค
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/gamerzahatv/laravel-food_pos.git
 ```
 
 Go to the project directory
