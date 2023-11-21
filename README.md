@@ -40,10 +40,12 @@ Clone the project
   npm run build
 ```
 
-Install dependencies
+สร้างฐานข้อมูล , สร้างบทบาท
 
 ```bash
-  npm install
+  php artisan migrate
+  php artisan permission:create-role admin
+  php artisan permission:create-role User
 ```
 
 Start the server
