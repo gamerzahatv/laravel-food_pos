@@ -24,7 +24,7 @@
 - [NODE JS v20.9.0](https://nodejs.org/en/)
 
 
-## การติดตั้งโปรเจค Window
+## การติดตั้งโปรเจค Window เปิด mysql ใน xamppด้วย
 
 Clone the project
 
@@ -55,10 +55,9 @@ Clone the project
   php artisan permission:create-role admin
   php artisan permission:create-role User
 ```
-
+ทดลองใช้งานในระบบทดลอง
 ## Docker อาจกำลังมาแต่ไม่ใช้เร็วเร็วนี้
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+	กำลังพัฒนา
 
 ### Premium Partners
 
