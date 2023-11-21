@@ -6,25 +6,51 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## เกี่ยวกับโปรเจค
+## libary กับ  framework ที่ใช้ 
 
 เว็บแอปนี้เป็นเว็บจำลองการจัดการร้านค้าร้านป้าต๊อยโดยใช้เครื่องมือต่อไปนี้
 
-- [Bootstrap](https://getbootstrap.com/).
-- [Laravel 10.3](https://laravel.com/).
-- [Spatie](https://spatie.be/docs/laravel-permission/v6/introduction).
-- [Laravel Jetstream](https://jetstream.laravel.com/introduction.html).
-- [Jquery](https://jquery.com/).
+- [Bootstrap](https://getbootstrap.com/)
+- [Laravel 10.3](https://laravel.com/)
+- [Spatie](https://spatie.be/docs/laravel-permission/v6/introduction)
+- [Laravel Jetstream](https://jetstream.laravel.com/introduction.html)
+- [Jquery](https://jquery.com/)
+
+## software ที่ใช้
+
+เว็บแอปนี้เป็นเว็บจำลองการจัดการร้านค้าร้านป้าต๊อยโดยใช้เครื่องมือต่อไปนี้
+
+- [xampp](https://www.apachefriends.org/)
+- [composer](https://getcomposer.org/)
+- [PHP 8.2.4](https://www.php.net/)
+- [NODE JS v20.9.0](https://nodejs.org/en/)
 
 
+## Run Locally
 
-## Learning Laravel
+Clone the project
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+```bash
+  git clone https://link-to-project
+```
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Go to the project directory
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 
 ## Laravel Sponsors
 
