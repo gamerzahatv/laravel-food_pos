@@ -48,10 +48,12 @@ Clone the project
   php artisan permission:create-role User
 ```
 
-Start the server
+หากต้องการเคลียร์ข้อมูลในฐานข้อมูล
 
 ```bash
-  npm run start
+  php artisan migrate:fresh --seed
+  php artisan permission:create-role admin
+  php artisan permission:create-role User
 ```
 
 ## Laravel Sponsors
