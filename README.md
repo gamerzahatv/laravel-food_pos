@@ -1,10 +1,4 @@
 #  เว็บจัดการร้านอาหารตามสั่งป้าต๊อย
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
 ภาพตัวอย่างเว็บไซต์: [Example](https://github.com/gamerzahatv/laravel-food_pos/tree/dev/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A)
 วีดีโอแนะนำ: [YOUTUBE](https://github.com/gamerzahatv/laravel-food_pos/tree/dev/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A)
@@ -19,7 +13,7 @@
 - [Laravel Jetstream](https://jetstream.laravel.com/introduction.html)
 - [Jquery](https://jquery.com/)
 
-## software ที่ใช้
+## software ที่ใช้ติดตั้งก่อนใช้งานโปรเจค
 
 เว็บแอปนี้เป็นเว็บจำลองการจัดการร้านค้าร้านป้าต๊อยโดยใช้เครื่องมือต่อไปนี้
 
