@@ -35,9 +35,9 @@ Clone the project
 ติดตั้งโมดูล
 
 ```bash
-	composer install 
-	npm install 
-	npm run build
+  composer install 
+  npm install 
+  npm run build
 ```
 
 Install dependencies
