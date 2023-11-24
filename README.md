@@ -63,7 +63,7 @@ Clone the project
   php artisan serve --host=ไอพีคุณ --port=พอตคุณ 
 ```
 
-## Docker อาจกำลังมาแต่ไม่ใช้เร็วเร็วนี้
+## Docker อาจกำลังมาแต่ไม่ใช่เร็วเร็วนี้
 	กำลังพัฒนา
 
 
