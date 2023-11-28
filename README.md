@@ -20,9 +20,8 @@
 
 เว็บแอปนี้เป็นเว็บจำลองการจัดการร้านค้าร้านป้าต๊อยโดยใช้เครื่องมือต่อไปนี้
 
-- [xampp](https://www.apachefriends.org/)
-- [composer](https://getcomposer.org/)
-- [PHP 8.2.4](https://www.php.net/)
+- [xampp 8.2.4](https://www.apachefriends.org/)
+- [composer 2.6.5](https://getcomposer.org/)
 - [NODE JS v20.9.0](https://nodejs.org/en/)
 
 
