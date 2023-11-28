@@ -62,11 +62,17 @@ Clone the project
   php artisan serve --host=ไอพีคุณ --port=พอตคุณ 
 ```
 
-## Docker อาจกำลังมาแต่ไม่ใช่เร็วเร็วนี้
-ใช้คำสั่งแล้วรอ
+
+## Docker
+ใช้คำสั่งแล้วรอ container ทุกอันโหลดเสร็จจะใช้เวลาซักพัก
 ```bash
   docker compose up -d
 ```
+## libary กับ  framework ที่ใช้ 
+
+เครื่องมือใช้สำหรับจัดการฐานข้อมูล
+
+- [mysql workbench](https://www.mysql.com/products/workbench/)
 
 ## Docker อาจกำลังมาแต่ไม่ใช่เร็วเร็วนี้ 
 หากต้องการเพิ่มเมนูอาหารหรือเข้าใช้งานแอดมินเพื่อจัดการร้าน
