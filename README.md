@@ -68,6 +68,11 @@ Clone the project
 ```bash
   docker compose up -d
 ```
+## เปิดเว็บเพื่อทดสอบเว็บไซต์
+หาlocal ip ได้จาก ifconfig(linux) หรือ ipconfig (window)
+```bash 
+  your localip:5555
+```
 ## เครื่องมือใช้สำหรับจัดการฐานข้อมูล
 - [mysql workbench](https://www.mysql.com/products/workbench/)
 
