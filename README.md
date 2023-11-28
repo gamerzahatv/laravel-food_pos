@@ -68,10 +68,7 @@ Clone the project
 ```bash
   docker compose up -d
 ```
-## libary กับ  framework ที่ใช้ 
-
-เครื่องมือใช้สำหรับจัดการฐานข้อมูล
-
+## เครื่องมือใช้สำหรับจัดการฐานข้อมูล
 - [mysql workbench](https://www.mysql.com/products/workbench/)
 
 ## Docker อาจกำลังมาแต่ไม่ใช่เร็วเร็วนี้ 
