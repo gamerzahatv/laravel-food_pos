@@ -72,11 +72,8 @@ Clone the project
 - [mysql workbench](https://www.mysql.com/products/workbench/)
 
 ## Docker อาจกำลังมาแต่ไม่ใช่เร็วเร็วนี้ 
-หากต้องการเพิ่มเมนูอาหารหรือเข้าใช้งานแอดมินเพื่อจัดการร้าน
-```bash
-  docker compose up -d
-```
-
+หากต้องการเพิ่มเมนูอาหารหรือเข้าใช้งานแอดมินเพื่อจัดการร้าน หากต้องการเปลี่ยน user ทดลองเป็น admin เข้าที่ database: hellkitchen เปลี่ยน role_id จาก2เป็น1 (1คือเลขไอดีadmin,2คือเลขไอดีmember)
+![App Screenshot](https://github.com/gamerzahatv/laravel-food_pos/blob/dev/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A/user_role.PNG)
 
 ## Screenshots ภาพตัวอย่างเว็บไซต์
 
